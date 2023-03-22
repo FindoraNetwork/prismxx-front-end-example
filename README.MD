@@ -5,7 +5,6 @@
 ```
 Copy .env.example -> rename it to .env.local
 
-NATIVE_PRIVATE: Findora Native wallet private key
 EVM_PRIVATE: Findora Evm wallet private key (metamask)
 ```
 
